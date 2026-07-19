@@ -1,2 +1,2 @@
 print("Welcome to Top Choice Medical Facility")
-#newtext
+dept = input("Enter which department to visit: ")
