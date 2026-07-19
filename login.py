@@ -1,2 +1,3 @@
 user_name = input("Enter user name: ")
-passw = input("Enter password: ")
+password1 = input("Enter password: ")
+
