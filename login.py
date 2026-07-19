@@ -1,2 +1,2 @@
-user = input("Enter user name: ")
-password = input("Enter password: ")
+user_name = input("Enter user name: ")
+password1 = input("Enter password: ")
